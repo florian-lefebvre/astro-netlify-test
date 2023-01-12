@@ -1,17 +1,12 @@
 {
-  "name": "@example/basics",
-  "type": "module",
-  "version": "0.0.1",
-  "private": true,
+  "name": "astro-netlify-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "dev": "astro dev",
-    "start": "astro dev",
-    "build": "astro build",
-    "preview": "astro preview",
-    "astro": "astro"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies": {
-    "@astrojs/netlify": "^1.3.0",
-    "astro": "^1.9.0"
-  }
+  "keywords": [],
+  "author": "Florian LEFEBVRE",
+  "license": "ISC"
 }
